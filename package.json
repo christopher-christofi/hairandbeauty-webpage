@@ -1,0 +1,21 @@
+{
+  "name": "hairandbeauty-webpage",
+  "version": "1.0.2",
+  "description": "Simple webpage with minamalistic design.\r Written in pure HTML and CSS from scratch.\r Practice web development prototypes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopher-christofi/hairandbeauty-webpage.git"
+  },
+  "keywords": [],
+  "author": "Christopher Christofi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopher-christofi/hairandbeauty-webpage/"
+  },
+  "homepage": "https://github.com/christopher-christofi/hairandbeauty-webpage#readme"
+}
