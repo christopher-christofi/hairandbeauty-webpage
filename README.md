@@ -1,2 +1,9 @@
 # hairandbeauty-webpage
-Simple hair and beauty webpage prototype, practice
+Simple webpage with minamalistic design.
+Written in pure HTML and CSS from scratch.
+Practice web development prototypes.
+
+Features:
+- HTML
+- CSS
+- Unfinished
